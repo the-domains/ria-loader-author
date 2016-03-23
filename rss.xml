@@ -4,21 +4,21 @@
         <description><![CDATA[Author of whimsical stories about magic and meaning]]></description>
         <link>https://thegrid.ai/ria-loader-author/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 18:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 20:57:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ria-loader-author/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Writing a fantasy novel</p>]]></description>
+            <link>https://thegrid.ai/ria-loader-author/317a39ee-0962-4c63-b049-358011591ec9/index.html</link>
+            <guid isPermaLink="false">317a39ee-0962-4c63-b049-358011591ec9</guid>
+            <pubDate>Wed, 23 Mar 2016 20:57:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Library of Time Novel]]></title>
             <description><![CDATA[<article><h1>Library of Time Novel</h1><p>Library of Time novel</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/543e7d91-e11c-4bdf-b229-e73fc88c5120.png"></article>]]></description>
             <link>https://thegrid.ai/ria-loader-author/library-of-time-novel/index.html</link>
             <guid isPermaLink="false">d42bc843-2a49-4fc4-8962-700938828f91</guid>
             <pubDate>Wed, 23 Mar 2016 18:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Writing a fantasy novel</p>]]></description>
-            <link>https://thegrid.ai/ria-loader-author/317a39ee-0962-4c63-b049-358011591ec9/index.html</link>
-            <guid isPermaLink="false">317a39ee-0962-4c63-b049-358011591ec9</guid>
-            <pubDate>Wed, 23 Mar 2016 16:55:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
