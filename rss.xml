@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[Author of whimsical stories about magic and meaning]]></title>
         <description><![CDATA[Author of whimsical stories about magic and meaning]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ria-loader-author/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 16:56:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 18:07:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ria-loader-author/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Library of Time Novel]]></title>
+            <description><![CDATA[<article><h1>Library of Time Novel</h1><p>Planning a how-to book</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/543e7d91-e11c-4bdf-b229-e73fc88c5120.png"></article>]]></description>
+            <link>https://thegrid.ai/ria-loader-author/library-of-time-novel/index.html</link>
+            <guid isPermaLink="false">d42bc843-2a49-4fc4-8962-700938828f91</guid>
+            <pubDate>Wed, 23 Mar 2016 18:06:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined317a39ee-0962-4c63-b049-358011591ec9/index.html</link>
+            <description><![CDATA[<p>Writing a fantasy novel</p>]]></description>
+            <link>https://thegrid.ai/ria-loader-author/317a39ee-0962-4c63-b049-358011591ec9/index.html</link>
             <guid isPermaLink="false">317a39ee-0962-4c63-b049-358011591ec9</guid>
             <pubDate>Wed, 23 Mar 2016 16:55:46 GMT</pubDate>
         </item>
