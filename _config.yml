@@ -1,0 +1,28 @@
+name: Ria Loader Author
+favicon: null
+layout_spectrum: 0.6958974914159626
+typography_spectrum: 0.9967110354918987
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7663988871499896
+  lightness: 0.24875397491268814
+  saturation: 0.15134192979894578
+  rhythmicContrast: 0.668606937630102
+purpose: []
