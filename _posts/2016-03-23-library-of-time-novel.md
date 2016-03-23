@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-23T18:06:36.173Z'
-dateModified: '2016-03-23T18:06:16.796Z'
+datePublished: '2016-03-23T18:12:17.654Z'
+dateModified: '2016-03-23T18:12:17.155Z'
 title: Library of Time Novel
 author: []
 authors: []
@@ -24,4 +24,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/543e7d91-e11c-4bdf-b229-e73fc88c5120.png)
 
-Planning a how-to book
+Library of Time novel
